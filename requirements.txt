@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+zipfile36
+jupyter
